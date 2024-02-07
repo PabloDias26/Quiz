@@ -1,93 +1,93 @@
 const perguntas = [
     {
-        pergunta: "Qual é a principal legislação de segurança do trabalho aplicável a linhas de transmissão de energia no Brasil?",
+        pergunta: "Quando você está perto da pessoa, como você se sente?",
         respostas: [
-            "NR-10",
-            "NR-35",
-            "NR-12",
+            "Nervoso(a) e tímido(a)",
+            "Indiferente",
+            "Confortável e feliz",
         ],
-        correta: 0
+        correta: 3
     },
     {
-        pergunta: "O que é um Permissão de Trabalho e por que é importante em atividades relacionadas a Linhas de Transmissão?",
+        pergunta: "Com que frequência você procura iniciar conversas ou interações com a pessoa?",
         respostas: [
-            "Documento fiscal para a realização da obra",
-            "Autorização formal para realizar uma tarefa específica",
-            "Registro de equipamentos de segurança",
+            "Raramente ou nunca",
+            "Às vezes, quando é conveniente",
+            "Com frequência e de forma entusiasmada",
         ],
-        correta: 1
+        correta: 3
     },
     {
-        pergunta: "Qual é a distância mínima recomendada para trabalhos em altura próximo a linhas de transmissão energizadas?",
+        pergunta: "Como você reage aos elogios da pessoa?",
         respostas: [
-            "1 metro",
-            "3 metros",
-            "5 metros",
+            "Fico sem graça e desconfortável",
+            "Agradeço, mas não dou muita importância",
+            "Fico feliz e retribuo os elogios",
         ],
-        correta: 2
+        correta: 3
     },
     {
-        pergunta: "O que é um Equipamento de Proteção Coletiva (EPC) em ambientes de linhas de transmissão?",
+        pergunta: "Você sente ciúmes quando a pessoa interage com outras pessoas?",
         respostas: [
-            "Equipamento pessoal do colaborador",
-            "Equipamento destinado à proteção de um grupo de trabalhadores",
-            "Máquina utilizada na transmissão de energia",
+            "Não, não me importo com isso",
+            "Às vezes, depende da situação",
+            "Sim, sinto ciúmes e incomodo",
         ],
-        correta: 1
+        correta: 3
     },
     {
-        pergunta: "Quais são os riscos associados à exposição prolongada a campos elétricos e magnéticos em linhas de transmissão?",
+        pergunta: "Como você age quando a pessoa precisa de ajuda ou apoio?",
         respostas: [
-            "Queimaduras térmicas",
-            "Problemas respiratórios",
-            "Efeitos biológicos e/ou fisiológicos",
+            "Não me importo muito, cada um que cuide de si",
+            "Ajudo se for conveniente, mas não me dedico muito",
+            "Me esforço para ajudar e apoiar sempre que necessário",
         ],
-        correta: 2
+        correta: 3
     },
     {
-        pergunta: "O que significa o termo 'Bloqueio e Etiquetagem' em segurança de linhas de transmissão?",
+        pergunta: "Você costuma buscar oportunidades de passar tempo a sós com a pessoa?",
         respostas: [
-            "Proibir a entrada de pessoas não autorizadas",
-            "Identificar equipamentos sem uso",
-            "Procedimento para inibir energias perigosas durante a manutenção",
+            "Não, não vejo necessidade disso",
+            "Às vezes, mas não faço questão",
+            "Sim, sempre que possível",
         ],
-        correta: 2
+        correta: 3
     },
     {
-        pergunta: "Qual é a função do Plano de Resposta a Emergências em uma linha de transmissão?",
+        pergunta: "Como você se sente quando a pessoa elogia ou demonstra interesse em outra pessoa?",
         respostas: [
-            "Registrar acidentes após ocorrerem",
-            "Prevenir a ocorrência de acidentes",
-            "Organizar ações para responder a incidentes de segurança",
+            "Não me importo, cada um tem seus gostos",
+            "Fico um pouco incomodado(a), mas não demonstro",
+            "Sinto ciúmes e fico claramente desconfortável",
         ],
-        correta: 2
+        correta: 3
     },
     {
-        pergunta: "O que é uma Análise Preliminar de Risco (APR) e quando deve ser realizada?",
+        pergunta: "Você costuma lembrar-se de detalhes importantes sobre a pessoa, como suas preferências e interesses?",
         respostas: [
-            "Documento obrigatório apenas para obras de grande porte",
-            "Avaliação que identifica potenciais riscos antes do início da atividade",
-            "Registro de incidentes após a sua ocorrência",
+            "Não, não vejo necessidade disso",
+            "Às vezes, depende do contexto",
+            "Sim, faço questão de lembrar e considerar esses detalhes",
         ],
-        correta: 1
+        correta: 3
     },
     {
-        pergunta: "Qual é a importância do treinamento de primeiros socorros para técnicos em segurança em linhas de transmissão?",
+        pergunta: "Como você se sente em relação a planos futuros que envolvem a pessoa?",
         respostas: [
-            "Reduzir custos operacionais",
-            "Minimizar o tempo de produção",
-            "Preservar a vida e minimizar sequelas em caso de acidentes",
+            "Não penso muito sobre isso",
+            "Às vezes, considero, mas não me comprometo",
+            "Fico animado(a) e entusiasmado(a) com a ideia",
         ],
-        correta: 2
+        correta: 3
     },
     {
-        pergunta: "O que é um 'checklist' de segurança e como pode ser utilizado em linhas de transmissão?",
+        pergunta: "Quando a pessoa está ausente, você costuma sentir falta dela?",
         respostas: [
-            "Lista de compras de equipamentos de segurança",
-            "Registro de atividades diárias dos colaboradores",
-            "Lista de verificação para garantir que todas as medidas de segurança foram seguidas",
+            "Não, mal percebo quando ela não está presente",
+            "Às vezes, depende do dia",
+            "Sim, sinto falta e penso nela com frequência",
         ],
-        correta: 2
+        correta: 3
     },
 ];
 
