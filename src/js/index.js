@@ -1,93 +1,93 @@
 const perguntas = [
     {
-        pergunta: "Quando você está perto da pessoa, como você se sente?",
+        pergunta: "Qual é o tipo mais comum de torre de transmissão de energia?",
         respostas: [
-            "Nervoso(a) e tímido(a)",
-            "Indiferente",
-            "Confortável e feliz",
+            "Torre metálica",
+            "Torre de concreto",
+            "Torre de madeira",
         ],
-        correta: 3
+        correta: 0
     },
     {
-        pergunta: "Com que frequência você procura iniciar conversas ou interações com a pessoa?",
+        pergunta: "O que é uma linha de vida e qual sua importância na montagem de torres de transmissão?",
         respostas: [
-            "Raramente ou nunca",
-            "Às vezes, quando é conveniente",
-            "Com frequência e de forma entusiasmada",
+            "Um cabo de aço para transporte de materiais",
+            "Um dispositivo de segurança para prevenir quedas",
+            "Um tipo de ferramenta para fixação de parafusos",
         ],
-        correta: 3
+        correta: 1
     },
     {
-        pergunta: "Como você reage aos elogios da pessoa?",
+        pergunta: "Qual é a função dos estais em uma torre de transmissão?",
         respostas: [
-            "Fico sem graça e desconfortável",
-            "Agradeço, mas não dou muita importância",
-            "Fico feliz e retribuo os elogios",
+            "Fornecer eletricidade para a torre",
+            "Estabilizar a estrutura e distribuir cargas",
+            "Fixar a torre no solo",
         ],
-        correta: 3
+        correta: 1
     },
     {
-        pergunta: "Você sente ciúmes quando a pessoa interage com outras pessoas?",
+        pergunta: "O que é uma grua e como é utilizada na montagem de torres de transmissão?",
         respostas: [
-            "Não, não me importo com isso",
-            "Às vezes, depende da situação",
-            "Sim, sinto ciúmes e incomodo",
+            "Um tipo de fundação para as torres",
+            "Um equipamento para içar e movimentar materiais pesados",
+            "Um tipo de isolante para proteção contra descargas elétricas",
         ],
-        correta: 3
+        correta: 1
     },
     {
-        pergunta: "Como você age quando a pessoa precisa de ajuda ou apoio?",
+        pergunta: "Qual é o propósito das plataformas de trabalho em uma torre de transmissão?",
         respostas: [
-            "Não me importo muito, cada um que cuide de si",
-            "Ajudo se for conveniente, mas não me dedico muito",
-            "Me esforço para ajudar e apoiar sempre que necessário",
+            "Servir como ponto de ancoragem para cabos de alta tensão",
+            "Facilitar a visualização da paisagem ao redor da torre",
+            "Oferecer espaço seguro para os montadores trabalharem",
         ],
-        correta: 3
+        correta: 2
     },
     {
-        pergunta: "Você costuma buscar oportunidades de passar tempo a sós com a pessoa?",
+        pergunta: "O que é um guincho e como é utilizado na montagem de torres de transmissão?",
         respostas: [
-            "Não, não vejo necessidade disso",
-            "Às vezes, mas não faço questão",
-            "Sim, sempre que possível",
+            "Uma estrutura para suportar os cabos de sustentação",
+            "Um tipo de escada para acesso à parte superior da torre",
+            "Um equipamento para levantar e posicionar componentes da torre",
         ],
-        correta: 3
+        correta: 2
     },
     {
-        pergunta: "Como você se sente quando a pessoa elogia ou demonstra interesse em outra pessoa?",
+        pergunta: "O que são isoladores e qual é sua função em uma linha de transmissão?",
         respostas: [
-            "Não me importo, cada um tem seus gostos",
-            "Fico um pouco incomodado(a), mas não demonstro",
-            "Sinto ciúmes e fico claramente desconfortável",
+            "Materiais isolantes utilizados para evitar choques elétricos",
+            "Elementos decorativos aplicados nas torres",
+            "Dispositivos de sinalização para navegação aérea",
         ],
-        correta: 3
+        correta: 0
     },
     {
-        pergunta: "Você costuma lembrar-se de detalhes importantes sobre a pessoa, como suas preferências e interesses?",
+        pergunta: "Por que é importante realizar inspeções regulares em torres de transmissão?",
         respostas: [
-            "Não, não vejo necessidade disso",
-            "Às vezes, depende do contexto",
-            "Sim, faço questão de lembrar e considerar esses detalhes",
+            "Para verificar a cor dos cabos de energia",
+            "Para garantir que as torres estejam niveladas",
+            "Para identificar e corrigir danos ou desgastes antes que causem problemas",
         ],
-        correta: 3
+        correta: 2
     },
     {
-        pergunta: "Como você se sente em relação a planos futuros que envolvem a pessoa?",
+        pergunta: "O que são chaves de impacto e qual é sua função na montagem de torres de transmissão?",
         respostas: [
-            "Não penso muito sobre isso",
-            "Às vezes, considero, mas não me comprometo",
-            "Fico animado(a) e entusiasmado(a) com a ideia",
+            "Chaves de fenda utilizadas para apertar parafusos",
+            "Ferramentas para medir a tensão dos cabos",
+            "Ferramentas elétricas para apertar ou soltar parafusos rapidamente",
         ],
-        correta: 3
+        correta: 2
     },
     {
-        pergunta: "Quando a pessoa está ausente, você costuma sentir falta dela?",
+        pergunta: "O que é um plano de rigging e qual é sua importância na montagem de torres de transmissão?",
         respostas: [
-            "Não, mal percebo quando ela não está presente",
-            "Às vezes, depende do dia",
-            "Sim, sinto falta e penso nela com frequência",
+            "Um documento para registrar a quantidade de materiais utilizados",
+            "Um plano para movimentação e içamento de cargas com segurança",
+            "Um plano para manutenção dos cabos de aço das torres",
         ],
-        correta: 3
+        correta: 1
     },
 ];
 
